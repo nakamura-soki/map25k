@@ -9,7 +9,7 @@ const CACHE_KEYS = [
     MAP_CACHE_NAME
 ];
 
-const url_query_parameter = "2025"
+const url_query_parameter = "202502131302"
 const FILES_TO_CACHE_ON_INSTALL = [
     
     // ### HTML ###
